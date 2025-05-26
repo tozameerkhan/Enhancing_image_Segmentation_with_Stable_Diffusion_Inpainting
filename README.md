@@ -1,4 +1,4 @@
-# Enhancing-Image-Segmentation-with-Stable-Diffusion-Inpainting
+# Enhancing_Image_Segmentation_with_Stable_Diffusion_Inpainting
 
 Stable Diffusion is an impressively powerful text-to-image model released by Stability AI earlier this year. In this blog post, we’ll explore a technique for augmenting training data with Stable Diffusion in order to improve performance on an image segmentation task. This approach is especially powerful in applications where data is limited or would otherwise require tedious human labeling.
 
